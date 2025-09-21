@@ -39,7 +39,7 @@ const Ddd = ({ previewUrl }: DddProps) => {
           <Link
             isExternal
             color="foreground"
-            href="https://github.com/vindhya-jain/Driver-Drowsiness-Detection"
+            href="https://github.com/vindhya-jain/ZzzSafe"
           >
             <span className="text-sm md:text-medium text-nowrap hidden group-hover:block invisible group-hover:visible mr-1 animate-fade">
               Driver Drowsiness Detection
